@@ -1,1 +1,1 @@
-# pharmacy_management
+Projekti on suunnattu lääkeyrityksille, joissa ne voivat lisätä, päivittää ja etsiä lääkkeitä tietokannasta. Suunnittelen yksinkertaista työpöytäsovellusta. Keskeiset toiminnot sisältävät uusien lääkkeiden lisäämisen, olemassa olevien päivittämisen ja lääkkeiden etsimisen viitenumeron perusteella.
